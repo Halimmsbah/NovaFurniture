@@ -44,3 +44,15 @@ The backend runs on `http://localhost:3000` by default.
 The frontend reads `VITE_API_BASE_URL` from `frontend/.env` and defaults to `http://localhost:3000/api/v1`.
 
 That matches the backend routes under `backend/src/modules/index.routes.js`, which are mounted at `/api/v1/*`.
+
+## Deployment
+
+Complete deployment instructions are available in [DEPLOYMENT.md](./DEPLOYMENT.md).
+
+### Quick Deployment Summary:
+
+- **Frontend**: Deploy on [Vercel](https://vercel.com) (auto-deploy from GitHub)
+- **Backend**: Deploy on [Render.com](https://render.com) (auto-deploy from GitHub)
+- **Database**: Use [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) (free tier available)
+
+After deploying both, connect them by updating environment variables to point to each other's URLs.
