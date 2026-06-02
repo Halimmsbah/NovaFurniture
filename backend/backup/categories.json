@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebc4",
+    "name": "Sofas",
+    "slug": "sofas",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "image": "sectional-purple.png",
+    "createdAt": "2026-05-30T03:40:30.567Z",
+    "updatedAt": "2026-05-30T03:40:30.567Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebc6",
+    "name": "Chairs",
+    "slug": "chairs",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "image": "armchair-purple.png",
+    "createdAt": "2026-05-30T03:40:30.574Z",
+    "updatedAt": "2026-05-30T03:40:30.574Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebc8",
+    "name": "Tables",
+    "slug": "tables",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "image": "marble-dining-table.png",
+    "createdAt": "2026-05-30T03:40:30.576Z",
+    "updatedAt": "2026-05-30T03:40:30.576Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebca",
+    "name": "Lighting",
+    "slug": "lighting",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "image": "floor-lamp.png",
+    "createdAt": "2026-05-30T03:40:30.578Z",
+    "updatedAt": "2026-05-30T03:40:30.578Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebcc",
+    "name": "Bedroom",
+    "slug": "bedroom",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "image": "platform-bed-purple.png",
+    "createdAt": "2026-05-30T03:40:30.580Z",
+    "updatedAt": "2026-05-30T03:40:30.580Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebce",
+    "name": "Storage",
+    "slug": "storage",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "image": "walnut-bookshelf.png",
+    "createdAt": "2026-05-30T03:40:30.581Z",
+    "updatedAt": "2026-05-30T03:40:30.581Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebd0",
+    "name": "Decor",
+    "slug": "decor",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "image": "ceramic-vase.png",
+    "createdAt": "2026-05-30T03:40:30.583Z",
+    "updatedAt": "2026-05-30T03:40:30.583Z",
+    "__v": 0
+  }
+]

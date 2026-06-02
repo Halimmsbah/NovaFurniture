@@ -1,0 +1,202 @@
+[
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebdc",
+    "name": "Classic Sofas",
+    "slug": "classic-sofas",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "category": "6a1a5c2eba5d1f1a99e1ebc4",
+    "createdAt": "2026-05-30T03:40:30.594Z",
+    "updatedAt": "2026-05-30T03:40:30.594Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebde",
+    "name": "Curved Sofas",
+    "slug": "curved-sofas",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "category": "6a1a5c2eba5d1f1a99e1ebc4",
+    "createdAt": "2026-05-30T03:40:30.597Z",
+    "updatedAt": "2026-05-30T03:40:30.597Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebe0",
+    "name": "Sectionals",
+    "slug": "sectionals",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "category": "6a1a5c2eba5d1f1a99e1ebc4",
+    "createdAt": "2026-05-30T03:40:30.598Z",
+    "updatedAt": "2026-05-30T03:40:30.598Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebe2",
+    "name": "Chaise Sofas",
+    "slug": "chaise-sofas",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "category": "6a1a5c2eba5d1f1a99e1ebc4",
+    "createdAt": "2026-05-30T03:40:30.600Z",
+    "updatedAt": "2026-05-30T03:40:30.600Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebe4",
+    "name": "Low Sofas",
+    "slug": "low-sofas",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "category": "6a1a5c2eba5d1f1a99e1ebc4",
+    "createdAt": "2026-05-30T03:40:30.601Z",
+    "updatedAt": "2026-05-30T03:40:30.601Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebe6",
+    "name": "Mid Sofas",
+    "slug": "mid-sofas",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "category": "6a1a5c2eba5d1f1a99e1ebc4",
+    "createdAt": "2026-05-30T03:40:30.602Z",
+    "updatedAt": "2026-05-30T03:40:30.602Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebe8",
+    "name": "Accent Chairs",
+    "slug": "accent-chairs",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "category": "6a1a5c2eba5d1f1a99e1ebc6",
+    "createdAt": "2026-05-30T03:40:30.603Z",
+    "updatedAt": "2026-05-30T03:40:30.603Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebea",
+    "name": "Armchairs",
+    "slug": "armchairs",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "category": "6a1a5c2eba5d1f1a99e1ebc6",
+    "createdAt": "2026-05-30T03:40:30.604Z",
+    "updatedAt": "2026-05-30T03:40:30.604Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebec",
+    "name": "Lounge Chairs",
+    "slug": "lounge-chairs",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "category": "6a1a5c2eba5d1f1a99e1ebc6",
+    "createdAt": "2026-05-30T03:40:30.605Z",
+    "updatedAt": "2026-05-30T03:40:30.605Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebee",
+    "name": "Office Chairs",
+    "slug": "office-chairs",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "category": "6a1a5c2eba5d1f1a99e1ebc6",
+    "createdAt": "2026-05-30T03:40:30.606Z",
+    "updatedAt": "2026-05-30T03:40:30.606Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebf0",
+    "name": "Dining Tables",
+    "slug": "dining-tables",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "category": "6a1a5c2eba5d1f1a99e1ebc8",
+    "createdAt": "2026-05-30T03:40:30.607Z",
+    "updatedAt": "2026-05-30T03:40:30.607Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebf2",
+    "name": "Coffee Tables",
+    "slug": "coffee-tables",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "category": "6a1a5c2eba5d1f1a99e1ebc8",
+    "createdAt": "2026-05-30T03:40:30.610Z",
+    "updatedAt": "2026-05-30T03:40:30.610Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebf4",
+    "name": "Side Tables",
+    "slug": "side-tables",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "category": "6a1a5c2eba5d1f1a99e1ebc8",
+    "createdAt": "2026-05-30T03:40:30.611Z",
+    "updatedAt": "2026-05-30T03:40:30.611Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebf6",
+    "name": "Table Lamps",
+    "slug": "table-lamps",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "category": "6a1a5c2eba5d1f1a99e1ebca",
+    "createdAt": "2026-05-30T03:40:30.612Z",
+    "updatedAt": "2026-05-30T03:40:30.612Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebf8",
+    "name": "Floor Lamps",
+    "slug": "floor-lamps",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "category": "6a1a5c2eba5d1f1a99e1ebca",
+    "createdAt": "2026-05-30T03:40:30.613Z",
+    "updatedAt": "2026-05-30T03:40:30.613Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebfa",
+    "name": "Pendant Lamps",
+    "slug": "pendant-lamps",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "category": "6a1a5c2eba5d1f1a99e1ebca",
+    "createdAt": "2026-05-30T03:40:30.614Z",
+    "updatedAt": "2026-05-30T03:40:30.614Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebfc",
+    "name": "Beds",
+    "slug": "beds",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "category": "6a1a5c2eba5d1f1a99e1ebcc",
+    "createdAt": "2026-05-30T03:40:30.616Z",
+    "updatedAt": "2026-05-30T03:40:30.616Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebfe",
+    "name": "Bookcases",
+    "slug": "bookcases",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "category": "6a1a5c2eba5d1f1a99e1ebce",
+    "createdAt": "2026-05-30T03:40:30.617Z",
+    "updatedAt": "2026-05-30T03:40:30.617Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ec00",
+    "name": "Desks",
+    "slug": "desks",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "category": "6a1a5c2eba5d1f1a99e1ebce",
+    "createdAt": "2026-05-30T03:40:30.618Z",
+    "updatedAt": "2026-05-30T03:40:30.618Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ec02",
+    "name": "Decorative Objects",
+    "slug": "decorative-objects",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "category": "6a1a5c2eba5d1f1a99e1ebd0",
+    "createdAt": "2026-05-30T03:40:30.618Z",
+    "updatedAt": "2026-05-30T03:40:30.618Z",
+    "__v": 0
+  }
+]

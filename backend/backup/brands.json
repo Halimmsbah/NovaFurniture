@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebd2",
+    "name": "Nova Atelier",
+    "slug": "nova-atelier",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "createdAt": "2026-05-30T03:40:30.585Z",
+    "updatedAt": "2026-05-30T03:40:30.585Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebd4",
+    "name": "Maison Velvet",
+    "slug": "maison-velvet",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "createdAt": "2026-05-30T03:40:30.587Z",
+    "updatedAt": "2026-05-30T03:40:30.587Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebd6",
+    "name": "Oak & Marble",
+    "slug": "oak-and-marble",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "createdAt": "2026-05-30T03:40:30.589Z",
+    "updatedAt": "2026-05-30T03:40:30.589Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebd8",
+    "name": "Solis Studio",
+    "slug": "solis-studio",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "createdAt": "2026-05-30T03:40:30.591Z",
+    "updatedAt": "2026-05-30T03:40:30.591Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a5c2eba5d1f1a99e1ebda",
+    "name": "Atelier Noir",
+    "slug": "atelier-noir",
+    "createdBy": "6a10e5fc2cfd120b1c46b6fc",
+    "createdAt": "2026-05-30T03:40:30.592Z",
+    "updatedAt": "2026-05-30T03:40:30.592Z",
+    "__v": 0
+  }
+]

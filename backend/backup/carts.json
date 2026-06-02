@@ -1,0 +1,101 @@
+[
+  {
+    "_id": "6a0dad0886aad08bbf1d22c3",
+    "user": "6a0da814248840f339be0147",
+    "cartItems": [
+      {
+        "product": "6a0da9f404b05031ab22131d",
+        "quantity": 1,
+        "price": 1000,
+        "_id": "6a0dad0886aad08bbf1d22c4"
+      }
+    ],
+    "totalPrice": 1000,
+    "createdAt": "2026-05-20T12:46:00.392Z",
+    "updatedAt": "2026-05-20T12:46:00.392Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a6522483437c0851dd438",
+    "user": "6a1a6522483437c0851dd430",
+    "cartItems": [
+      {
+        "product": "6a1a5c2eba5d1f1a99e1ec04",
+        "quantity": 1,
+        "price": 24500,
+        "_id": "6a1a6522483437c0851dd439"
+      }
+    ],
+    "totalPrice": 24500,
+    "createdAt": "2026-05-30T04:18:42.957Z",
+    "updatedAt": "2026-05-30T04:18:42.957Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a65ed483437c0851dd446",
+    "user": "6a10e5fc2cfd120b1c46b6fc",
+    "cartItems": [
+      {
+        "product": "6a1b5921bc63e7110b1603b5",
+        "quantity": 1,
+        "price": 500,
+        "_id": "6a1b5d0a1c3ccc0aded7f52a"
+      },
+      {
+        "product": "6a1a5c2eba5d1f1a99e1ec24",
+        "quantity": 1,
+        "price": 42900,
+        "_id": "6a1b675b1a2a1be395ca624f"
+      }
+    ],
+    "totalPrice": 43400,
+    "createdAt": "2026-05-30T04:22:05.800Z",
+    "updatedAt": "2026-05-30T22:40:27.711Z",
+    "__v": 5,
+    "discount": 10,
+    "totalPriceAfterDiscount": 39060
+  },
+  {
+    "_id": "6a1a6696483437c0851dd495",
+    "user": "6a1a6696483437c0851dd48d",
+    "cartItems": [
+      {
+        "product": "6a1a5c2eba5d1f1a99e1ec04",
+        "quantity": 2,
+        "price": 24500,
+        "_id": "6a1a6696483437c0851dd496"
+      }
+    ],
+    "totalPrice": 49000,
+    "createdAt": "2026-05-30T04:24:54.273Z",
+    "updatedAt": "2026-05-30T04:24:54.283Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a688e6aec8da6667b72cc",
+    "user": "6a1a688e6aec8da6667b72c4",
+    "cartItems": [],
+    "totalPrice": 0,
+    "createdAt": "2026-05-30T04:33:18.440Z",
+    "updatedAt": "2026-05-30T04:33:18.482Z",
+    "__v": 1,
+    "discount": 10,
+    "totalPriceAfterDiscount": 0
+  },
+  {
+    "_id": "6a1da5f7c76c5c30e46a80ef",
+    "user": "6a1ba37e9949c261ca592c1d",
+    "cartItems": [
+      {
+        "product": "6a1a5c2eba5d1f1a99e1ec10",
+        "quantity": 1,
+        "price": 9800,
+        "_id": "6a1da5f7c76c5c30e46a80f0"
+      }
+    ],
+    "totalPrice": 9800,
+    "createdAt": "2026-06-01T15:32:07.655Z",
+    "updatedAt": "2026-06-01T15:32:07.655Z",
+    "__v": 0
+  }
+]

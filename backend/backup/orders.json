@@ -1,0 +1,131 @@
+[
+  {
+    "_id": "6a1a67ad5bdf379588a54d2e",
+    "user": "6a1a67ad5bdf379588a54d1f",
+    "orderItems": [
+      {
+        "product": "6a1a5c2eba5d1f1a99e1ec04",
+        "quantity": 1,
+        "price": 24500,
+        "_id": "6a1a67ad5bdf379588a54d28"
+      }
+    ],
+    "totalOrderPrice": 24500,
+    "shippingAddress": {
+      "street": "1 Test St",
+      "city": "Cairo",
+      "phone": "01000000000"
+    },
+    "paymentType": "cash",
+    "isDelivered": false,
+    "isPaid": false,
+    "createdAt": "2026-05-30T04:29:33.761Z",
+    "updatedAt": "2026-05-30T21:48:02.901Z",
+    "__v": 0,
+    "deliveredAt": "2026-05-30T05:03:01.168Z",
+    "status": "confirmed"
+  },
+  {
+    "_id": "6a1a6a9813ce675871bfb5bf",
+    "user": "6a1a6a9813ce675871bfb5b1",
+    "orderItems": [
+      {
+        "product": "6a1a6a9813ce675871bfb5ac",
+        "quantity": 1,
+        "price": 3210,
+        "_id": "6a1a6a9813ce675871bfb5b9"
+      }
+    ],
+    "totalOrderPrice": 3210,
+    "shippingAddress": {
+      "street": "1 Admin St",
+      "city": "Cairo",
+      "phone": "01000000000"
+    },
+    "paymentType": "cash",
+    "isDelivered": false,
+    "isPaid": false,
+    "createdAt": "2026-05-30T04:42:00.868Z",
+    "updatedAt": "2026-05-30T04:44:34.379Z",
+    "__v": 0,
+    "deliveredAt": "2026-05-30T04:42:00.924Z"
+  },
+  {
+    "_id": "6a1a6d00bad0ebd16fec93f5",
+    "user": "6a1a6d00bad0ebd16fec93e7",
+    "orderItems": [
+      {
+        "product": "6a1a5c2eba5d1f1a99e1ec04",
+        "quantity": 1,
+        "price": 24500,
+        "_id": "6a1a6d00bad0ebd16fec93ef"
+      }
+    ],
+    "totalOrderPrice": 24500,
+    "shippingAddress": {
+      "street": "12 UI St",
+      "city": "Cairo",
+      "phone": "01000000000"
+    },
+    "status": "shipped",
+    "notes": "Handle with care",
+    "paymentType": "cash",
+    "isDelivered": false,
+    "isPaid": false,
+    "createdAt": "2026-05-30T04:52:16.302Z",
+    "updatedAt": "2026-05-30T21:48:09.138Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1a6f52bc63e7110b16014e",
+    "user": "6a1a6f0bbc63e7110b160118",
+    "orderItems": [
+      {
+        "product": "6a1a5c2eba5d1f1a99e1ec1a",
+        "quantity": 1,
+        "price": 6700,
+        "_id": "6a1a6f3bbc63e7110b16013a"
+      }
+    ],
+    "totalOrderPrice": 6700,
+    "shippingAddress": {
+      "street": "منطقة عزبة النخل",
+      "city": "منزل او جناح عزبة النخل",
+      "phone": "01066809002"
+    },
+    "status": "pending",
+    "notes": "",
+    "paymentType": "cash",
+    "isDelivered": false,
+    "isPaid": false,
+    "createdAt": "2026-05-30T05:02:10.719Z",
+    "updatedAt": "2026-05-30T05:04:45.568Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1b596fbc63e7110b16040e",
+    "user": "6a1a6f0bbc63e7110b160118",
+    "orderItems": [
+      {
+        "product": "6a1b5921bc63e7110b1603b5",
+        "quantity": 1,
+        "price": 500,
+        "_id": "6a1b5963bc63e7110b160404"
+      }
+    ],
+    "totalOrderPrice": 500,
+    "shippingAddress": {
+      "street": "منطقة عزبة النخل",
+      "city": "منزل او جناح عزبة النخل",
+      "phone": "01066809002"
+    },
+    "status": "confirmed",
+    "notes": "",
+    "paymentType": "cash",
+    "isDelivered": false,
+    "isPaid": false,
+    "createdAt": "2026-05-30T21:41:03.069Z",
+    "updatedAt": "2026-05-30T21:41:03.069Z",
+    "__v": 0
+  }
+]
