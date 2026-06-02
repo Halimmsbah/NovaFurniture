@@ -7,7 +7,8 @@ const options = {
     info: {
       title: 'E-Commerce API',
       version: '1.0.0',
-      description: 'A comprehensive e-commerce API with authentication, product management, shopping cart, and order processing',
+      description:
+        'A comprehensive e-commerce API with authentication, product management, shopping cart, and order processing',
       contact: {
         name: 'Halim',
         email: 'halim@example.com'
@@ -15,14 +16,14 @@ const options = {
     },
     servers: [
       {
-        url: 'http://localhost:3000',
-        description: 'Development server'
-      },
-      {
-        url: `http://localhost:${process.env.PORT || 3000}`,
-        description: 'Environment server'
+        url:
+          process.env.baseURL ||
+          process.env.BASE_URL ||
+          'http://localhost:3000',
+        description: 'API Server'
       }
-    ],
+    ],// ← الفاصلة دي كانت ناقصة
+
     components: {
       securitySchemes: {
         bearerAuth: {
