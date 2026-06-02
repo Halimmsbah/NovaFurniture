@@ -1,29 +1,28 @@
-import nodemailer from "nodemailer";
+import { Resend } from "resend";
 import { verificationEmailTemplate } from "./verificationEmailTemplate.js";
 
-const senderEmail = "Abdelhalim1143@gmail.com";
+const resend = new Resend(process.env.RESEND_API_KEY);
 
-export const sendVerificationEmail = async ({ email, name, otp }) => {
-  console.log("📧 EMAIL START");
-
-  const transporter = nodemailer.createTransport({
-    service: "gmail",
-    auth: {
-      user: process.env.EMAIL_NAME || senderEmail,
-      pass: process.env.EMAIL_PASS,
-    },
-  });
-
-  console.log("📧 TRANSPORT CREATED");
-
-  const info = await transporter.sendMail({
-    from: `"Nova Furniture" <${senderEmail}>`,
+export const sendVerificationEmail = async ({
+  email,
+  name,
+  otp,
+}) => {
+  const { data, error } = await resend.emails.send({
+    from: "onboarding@resend.dev",
     to: email,
     subject: "Verify your Nova account",
-    html: verificationEmailTemplate({ name, email, otp }),
+    html: verificationEmailTemplate({
+      name,
+      email,
+      otp,
+    }),
   });
 
-  console.log("📧 EMAIL SENT:", info.messageId);
+  if (error) {
+    console.error("❌ Resend Error:", error);
+    throw new Error(error.message);
+  }
 
-  return info;
+  console.log("✅ Verification email sent:", data?.id);
 };
