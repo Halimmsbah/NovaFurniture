@@ -3,7 +3,8 @@ import fs from 'fs';
 import path from 'path';
 
 // MongoDB Atlas connection string
-const ATLAS_URI = 'mongodb+srv://NovaFurniture:L689akoRfLglzMaZ@cluster0.7errxoi.mongodb.net/?appName=Cluster0';
+const ATLAS_URI =
+"mongodb+srv://halimsbah2_db_user:zZv3vmZ9Q4KO326h@nova.wosh6am.mongodb.net/nova?retryWrites=true&w=majority&appName=nova";
 const BACKUP_DIR = './backup';
 const DB_NAME = 'nova';
 

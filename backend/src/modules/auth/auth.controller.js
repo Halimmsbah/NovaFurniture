@@ -24,19 +24,23 @@ export const signup = catchAsyncError(async (req, res, next) => {
 
   await user.save();
 
-  try {
-    await sendVerificationEmail({
-      email: user.email,
-      name: user.name,
-      otp: verificationCode,
+  console.log("✅ USER SAVED:", user.email);
+
+  // إرسال الإيميل في الخلفية
+  sendVerificationEmail({
+    email: user.email,
+    name: user.name,
+    otp: verificationCode,
+  })
+    .then(() => {
+      console.log("✅ VERIFICATION EMAIL SENT");
+    })
+    .catch((error) => {
+      console.error("❌ EMAIL ERROR:", error);
     });
-  } catch (error) {
-    await userModel.findByIdAndDelete(user._id);
-    return next(error);
-  }
 
   return res.status(201).json({
-    message: "Verification code sent",
+    message: "Account created successfully",
     email: user.email,
   });
 });
