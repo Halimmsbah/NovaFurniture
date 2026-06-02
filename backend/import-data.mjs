@@ -2,8 +2,8 @@ import { MongoClient } from 'mongodb';
 import fs from 'fs';
 import path from 'path';
 
-// Replace with your MongoDB Atlas connection string
-const ATLAS_URI = process.env.MONGODB_URI || 'mongodb+srv://username:password@cluster0.mongodb.net/nova?retryWrites=true&w=majority';
+// MongoDB Atlas connection string
+const ATLAS_URI = 'mongodb+srv://NovaFurniture:L689akoRfLglzMaZ@cluster0.7errxoi.mongodb.net/?appName=Cluster0';
 const BACKUP_DIR = './backup';
 const DB_NAME = 'nova';
 
